@@ -173,3 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .qodo
+cred.txt
+local_s3/
